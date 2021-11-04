@@ -1,2 +1,2 @@
 # Learning
-Journey fro scratch
+Journey from scratch
