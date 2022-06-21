@@ -1,2 +1,3 @@
-# Learning
+# Bash Scripting
+
 Journey from scratch
